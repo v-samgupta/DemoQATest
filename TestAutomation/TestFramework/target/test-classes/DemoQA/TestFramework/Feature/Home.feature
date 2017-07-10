@@ -1,2 +1,0 @@
-Feature: Verify Home page
-
